@@ -1,6 +1,6 @@
 ﻿  pch.cpp
-  brxutil.cpp
   dllmain.cpp
+  brxutil.cpp
   Generating Code...
-     Creating library C:\Users\Marcos Dalte\Documents\Visual Studio 2019\projects\xfs\Debug\spsiu.lib and object C:\Users\Marcos Dalte\Documents\Visual Studio 2019\projects\xfs\Debug\spsiu.exp
-  spsiu.vcxproj -> C:\Users\Marcos Dalte\Documents\Visual Studio 2019\projects\xfs\Debug\spsiu.dll
+     Creating library C:\Users\Marcos Dalte\Documents\Visual Studio 2019\projects\service_provider_xfs\Debug\spsiu.lib and object C:\Users\Marcos Dalte\Documents\Visual Studio 2019\projects\service_provider_xfs\Debug\spsiu.exp
+  spsiu.vcxproj -> C:\Users\Marcos Dalte\Documents\Visual Studio 2019\projects\service_provider_xfs\Debug\spsiu.dll

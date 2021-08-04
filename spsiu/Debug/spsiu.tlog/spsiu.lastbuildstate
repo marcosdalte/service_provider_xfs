@@ -1,2 +1,2 @@
-PlatformToolSet=v142:VCToolArchitecture=Native32Bit:VCToolsVersion=14.29.30037:TargetPlatformVersion=10.0.19041.0:
-Debug|Win32|C:\Users\Marcos Dalte\Documents\Visual Studio 2019\projects\xfs\|
+#TargetFrameworkVersion=v4.0:PlatformToolSet=v120:EnableManagedIncrementalBuild=false:VCToolArchitecture=Native32Bit
+Debug|Win32|C:\Users\Marcos Dalte\Documents\Visual Studio 2019\projects\service_provider_xfs\|

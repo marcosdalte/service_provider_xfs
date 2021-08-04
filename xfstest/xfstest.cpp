@@ -139,7 +139,7 @@ int main()
 
 
     hResult = WFSOpen(
-        TEXTO("Sensores"),
+        TEXTO("testeSIU30"),
         WFS_DEFAULT_HAPP,
         TEXTO("BRXFSTEST"),
         0,
@@ -195,6 +195,7 @@ int main()
         ExecuteGetInfo();
         ExecuteCloseAndClening();
     }
+    cin.ignore();
 }
 
 void ExecuteCommands() {
